@@ -2,7 +2,7 @@
 
 A Quadcopter Simulation developed for the Undergratuate course of Robotics at the computer science and engineering department of University of Ioannina.
 
-#Synopsis
+# Synopsis
 The Kinematic model is implemented and it is being simulated while the Dynamic model is not yet completed.
 
 ![Alt text](https://github.com/koukouzasg/Quadcopter-Simulation/blob/master/Quad-Simulation.PNG)
